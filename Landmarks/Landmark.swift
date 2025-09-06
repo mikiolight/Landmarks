@@ -1,8 +1,0 @@
-//
-//  Landmark.swift
-//  Landmarks
-//
-//  Created by Mikihisa Saito on 2025/09/06.
-//
-
-import Foundation
